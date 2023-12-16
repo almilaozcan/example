@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Space Grotesk', sans-serif;
+    margin-right: 150px;
+    margin-left: 150px;
+    margin-top: 40px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+    list-style:none ;
+    gap: 25px;
+
+}
+h1{
+    font-size: 88px;
+    width: 800px;
+}
+p{
+    width: 400px;
+}
+.my{
+    font-size: 30px;
+    text-decoration: none;
+}
+.line{
+    border-bottom: 2px solid orange;
+}
+.intro-link{
+    color: white;
+    border-bottom: 2px solid orange;
+}
+hr {
+    width: 80%;
+    border-style: solid;
+    color:white;
+    border-width: 1px;
+    margin-top: 200px;
+}
